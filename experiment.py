@@ -1,0 +1,4 @@
+class truite(str) :
+	pass
+
+
